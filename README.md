@@ -1,1 +1,1 @@
-Ressources pour le nouvau programme de Physique-Chimie de Seconde.
+Ressources pour le programme de Physique-Chimie de Seconde.
